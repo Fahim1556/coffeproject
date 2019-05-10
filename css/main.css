@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+nav{
+    background: black;
+    width: 100%;
+
+}
+.navbar-brand{
+    color: white;
+}
+.nav.navbar-nav a{
+    color: white;
+}
+h1{
+    color: blue;
+} 
+h2{
+    color: blue;
+} 
+.row img{
+    width:350px;
+    height: 200px;
+    margin: 20px;
+}
